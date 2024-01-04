@@ -16,7 +16,7 @@
     "timeMonth": 634,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-01-04": 74
+      "2024-01-04": 84
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://ebaf90bc-b479-47ed-a4a6-6adbef5bcc04-00-1zhmhjaxwq0el.pike.replit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/ebaf90bc-b479-47ed-a4a6-6adbef5bcc04-00-1zhmhjaxwq0el.pike.replit.dev.ico",
     "slug": "x-ui",
-    "status": "up",
-    "uptime": "65.29%",
-    "uptimeDay": "65.29%",
-    "uptimeWeek": "65.29%",
-    "uptimeMonth": "65.29%",
-    "uptimeYear": "65.29%",
-    "time": 898,
-    "timeDay": 898,
-    "timeWeek": 898,
-    "timeMonth": 898,
-    "timeYear": 898,
+    "status": "down",
+    "uptime": "70.40%",
+    "uptimeDay": "70.40%",
+    "uptimeWeek": "70.40%",
+    "uptimeMonth": "70.40%",
+    "uptimeYear": "70.40%",
+    "time": 895,
+    "timeDay": 895,
+    "timeWeek": 895,
+    "timeMonth": 895,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2024-01-04": 19
     }
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-04": 55
+      "2024-01-04": 65
     }
   }
 ]
